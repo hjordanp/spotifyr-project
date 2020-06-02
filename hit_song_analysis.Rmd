@@ -1,0 +1,136 @@
+---
+title: "hit_song_analysis"
+author: "Helene Jordan"
+date: "15/5/2020"
+output: html_document
+---
+
+## Libraries 
+
+```{r}
+# devtools::install_github('charlie86/spotifyr')
+library('spotifyr')
+library(purrr)
+library(lubridate)
+library(knitr)
+library(plyr)
+library(ggplot2)
+library(tidyr)
+require(sqldf)
+library(stringr)
+library(dplyr)
+```
+
+## Authentication Settings
+
+```{r}
+id <- 'a498307d278a4569a85f21de1f78d5d7'
+secret <- '331e4c3def7c4b7a97a0e10e1901cfa9'
+Sys.setenv(SPOTIFY_CLIENT_ID = id)
+Sys.setenv(SPOTIFY_CLIENT_SECRET = secret)
+access_token <- get_spotify_access_token()
+authorization_token <- get_spotify_authorization_code()
+```
+
+## Import Dataframe and Dataframe manipulation
+```{r}
+top_songs <- read.csv('yearly_hot_100_chart.csv', header = TRUE, sep = ';')
+```
+
+
+```{r}
+get_top_song_clean <- function(top_songs, x_songs_per_week) {
+  
+  # Get top x songs per week and only keep two columns
+  top_songs_list <- top_songs%>%
+  dplyr::filter(rank == c(1:x_songs_per_week))%>%
+  select(c('name','artist'))
+
+  # All song names to lowercase to match spotify (since the filter function below is case sensistive)
+  top_songs_list$name <- tolower(top_songs_list$name)
+  
+  # Get only first artist
+  top_songs_list <- top_songs_list %>% 
+  separate(artist, into = paste0('artist', 1:3), sep = ',')%>%
+  separate(artist1, into = paste0('artist', 1:3), sep = ' Featuring')%>%
+  separate(artist1, into = paste0('artist', 1:3), sep = ' &')%>%
+  select(c(1,2))
+
+  return(top_songs_list)
+  
+}
+```
+
+
+```{r}
+top_songs_list <- get_top_song_clean(top_songs, 5)
+```
+
+We are looping over the dataframe of top songs (top_songs_list) to get the information and the features of each song.
+```{r}
+
+# Create an empty dataframe to append the information of each track
+track_features <- NULL
+
+
+
+for (i in 1:nrow(top_songs_list))     {
+  
+  # Search function on spotify allows you to search a song, artist or playlist. We will search each song to retreive      their track_id (we will need it to get all features from the track).
+  
+  search <- spotifyr::search_spotify(as.character(top_songs_list$name[i]), 'track')
+  
+  colnames(search) <- paste0('track_', colnames(search))
+  
+  # All track names to lowercase to match the top_songs_list data 
+  search$track_name <- tolower(search$track_name)
+
+  
+  # Search is still a dataframe with too much information. We want only one track (row) of that dataframe. The one        that matches with our top_songs_list. 
+  
+  # We will need to know who is the main artist of each track in the search dataframe.
+  search <- search %>%
+  tidyr::unnest(cols = 'track_artists') %>%
+  dplyr::group_by(track_id) %>%
+  dplyr::mutate(row_number = 1:n(),
+          artists = name) %>%
+  dplyr::ungroup() %>%
+  dplyr::filter(row_number == 1)
+
+  # Now let's filter the search dataframe with the artist and the track name we have on our top_songs_list dataframe.
+  filtered_search <- search%>%
+  dplyr::filter(name == top_songs_list$artist1[i])%>%
+  dplyr::filter(track_name == top_songs_list$name[i])
+  
+  # We have noticed that we get three different cases when filtering:
+  # - we get only one song (that is the best case scenario)
+  # - we get more than one song (we will need to select only the one that matches the top_songs_list)
+  # - we don't get any song (worst case scenario)
+  
+  # To solve this problem, we will use the column 'track_popularity'. We assume that since the songs are the top x        songs most listened, they will be the most popular.
+  # To solve the case where we have more than one, we will order them by populatiry (descending) and get the top 1.
+  # To solve the case where we have no songs, we will go back to the search dataframe and from all the songs, get the     one with more popularity.
+  
+  if(nrow(filtered_search) == 0){
+    filtered_search <- search%>%
+      filter(rank(desc(track_popularity))<=1)
+}else{
+    filtered_search <- filtered_search%>%
+      filter(rank(desc(track_popularity))<=1)
+}
+  
+
+  # Now that we have the track_id from the song we want, let's get its features!
+  audio <- spotifyr::get_track_audio_features(filtered_search$track_id)
+  
+  # To know which song is which, let's add the name column of top_songs_list. To know if this name matches with the       filtered_search name, we will add this column too. 
+  audio$track_name <- top_songs_list$name[i]
+  audio$spotify_track_name <- filtered_search$track_name
+  
+  # Now that we have the features of the song, we just need to append the audio dataframe to the one we created before     the for loop.
+  track_features <- dplyr::bind_rows(track_features, audio)
+  
+}
+```
+
+
