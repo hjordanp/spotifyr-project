@@ -63,7 +63,7 @@ get_top_song_clean <- function(top_songs, x_songs_per_week) {
 
 
 ```{r}
-top_songs_list <- get_top_song_clean(top_songs, 5)
+top_songs_list <- get_top_song_clean(top_songs, 10)
 ```
 
 We are looping over the dataframe of top songs (top_songs_list) to get the information and the features of each song.
@@ -133,4 +133,7 @@ for (i in 1:nrow(top_songs_list))     {
 }
 ```
 
+```{r}
+write.csv(track_features, file = "track_features.csv", row.names = FALSE)
+```
 

@@ -4183,7 +4183,7 @@ week;rank;rise;rise_nb;name;artist;last_week;peak;week_chart
                 ";94;New;-;Walk Em Down;NLE Choppa Featuring Roddy Ricch;-;94;1
 "
                 April 4, 2020
-                ";95;New;-;the other girl;Kelsea Ballerini x Halsey;-;95;1
+                ";95;New;-;The Other Girl;Kelsea Ballerini x Halsey;-;95;1
 "
                 April 4, 2020
                 ";96;Rising;+4;Make No Sense;YoungBoy Never Broke Again;100;57;19
@@ -5999,3 +5999,903 @@ week;rank;rise;rise_nb;name;artist;last_week;peak;week_chart
 "
                 May 16, 2020
                 ";100;New;-;Don't Rush;Young T & Bugsey Featuring Headie One;-;100;1
+"
+                May 23, 2020
+                ";1;New;-;Stuck With U;Ariana Grande & Justin Bieber;-;1;1
+"
+                May 23, 2020
+                ";2;Failing;-1;Say So;Doja Cat Featuring Nicki Minaj;1;1;19
+"
+                May 23, 2020
+                ";3;New;-;Gooba;6ix9ine;-;3;1
+"
+                May 23, 2020
+                ";4;Failing;-1;Blinding Lights;The Weeknd;3;1;24
+"
+                May 23, 2020
+                ";5;Failing;-3;Savage;Megan Thee Stallion Featuring Beyonce;2;2;9
+"
+                May 23, 2020
+                ";6;Failing;-2;Toosie Slide;Drake;4;1;6
+"
+                May 23, 2020
+                ";7;Failing;-2;The Box;Roddy Ricch;5;1;23
+"
+                May 23, 2020
+                ";8;Rising;+1;Rockstar;DaBaby Featuring Roddy Ricch;9;8;4
+"
+                May 23, 2020
+                ";9;Failing;-3;Don't Start Now;Dua Lipa;6;2;28
+"
+                May 23, 2020
+                ";10;Failing;-2;Circles;Post Malone;8;1;37
+"
+                May 23, 2020
+                ";11;Failing;-1;Intentions;Justin Bieber Featuring Quavo;10;8;14
+"
+                May 23, 2020
+                ";12;Failing;-1;Adore You;Harry Styles;11;6;23
+"
+                May 23, 2020
+                ";13;Steady;-;Life Is Good;Future Featuring Drake;13;2;18
+"
+                May 23, 2020
+                ";14;Rising;+1;The Bones;Maren Morris;15;12;34
+"
+                May 23, 2020
+                ";15;Failing;-3;The Scotts;THE SCOTTS, Travis Scott & Kid Cudi;12;1;3
+"
+                May 23, 2020
+                ";16;Rising;+4;Roses (Imanbek Remix);SAINt JHN;20;16;8
+"
+                May 23, 2020
+                ";17;Failing;-1;My Oh My;Camila Cabello Featuring DaBaby;16;12;23
+"
+                May 23, 2020
+                ";18;Steady;-;Someone You Loved;Lewis Capaldi;18;1;53
+"
+                May 23, 2020
+                ";19;Failing;-2;Everything I Wanted;Billie Eilish;17;8;27
+"
+                May 23, 2020
+                ";20;Rising;+2;Blueberry Faygo;Lil Mosey;22;16;14
+"
+                May 23, 2020
+                ";21;Rising;+2;Chasin' You;Morgan Wallen;23;21;16
+"
+                May 23, 2020
+                ";22;Rising;+6;Falling;Trevor Daniel;28;22;26
+"
+                May 23, 2020
+                ";23;Failing;-2;I Hope;Gabby Barrett;21;16;20
+"
+                May 23, 2020
+                ";24;Rising;+2;Memories;Maroon 5;26;2;34
+"
+                May 23, 2020
+                ";25;Failing;-1;Nobody But You;Blake Shelton Duet With Gwen Stefani;24;18;18
+"
+                May 23, 2020
+                ";26;Rising;+7;High Fashion;Roddy Ricch Featuring Mustard;33;20;20
+"
+                May 23, 2020
+                ";27;Rising;+4;Death Bed;Powfu Featuring beabadoobee;31;26;9
+"
+                May 23, 2020
+                ";28;Rising;+8;Does To Me;Luke Combs Featuring Eric Church;36;28;9
+"
+                May 23, 2020
+                ";29;Rising;+8;Sunday Best;Surfaces;37;28;11
+"
+                May 23, 2020
+                ";30;Rising;+8;RITMO (Bad Boys For Life);The Black Eyed Peas X J Balvin;38;26;25
+"
+                May 23, 2020
+                ";31;Rising;+9;Break My Heart;Dua Lipa;40;21;7
+"
+                May 23, 2020
+                ";32;Rising;+12;Whats Poppin;Jack Harlow;44;32;14
+"
+                May 23, 2020
+                ";33;Failing;-4;Be Kind;Marshmello & Halsey;29;29;2
+"
+                May 23, 2020
+                ";34;Rising;+16;I Hope You're Happy Now;Carly Pearce & Lee Brice;50;34;19
+"
+                May 23, 2020
+                ";35;Rising;+8;Hot Girl Bummer;blackbear;43;11;35
+"
+                May 23, 2020
+                ";36;Rising;+5;Beer Can't Fix;Thomas Rhett Featuring Jon Pardi;41;36;9
+"
+                May 23, 2020
+                ";37;Rising;+16;Before You Go;Lewis Capaldi;53;37;15
+"
+                May 23, 2020
+                ";38;Rising;+10;After A Few;Travis Denning;48;38;7
+"
+                May 23, 2020
+                ";39;Rising;+15;Supalonely;BENEE Featuring Gus Dapperton;54;39;9
+"
+                May 23, 2020
+                ";40;Rising;+6;Heart On Ice;Rod Wave;46;25;27
+"
+                May 23, 2020
+                ";41;Rising;+6;Ballin';Mustard & Roddy Ricch;47;11;43
+"
+                May 23, 2020
+                ";42;Rising;+7;Dance Monkey;Tones And I;49;4;32
+"
+                May 23, 2020
+                ";43;New;-;3 Headed Goat;Lil Durk Featuring Lil Baby & Polo G;-;43;1
+"
+                May 23, 2020
+                ";44;Rising;+11;Hard To Forget;Sam Hunt;55;40;7
+"
+                May 23, 2020
+                ";45;Rising;+12;Sum 2 Prove;Lil Baby;57;16;18
+"
+                May 23, 2020
+                ";46;Failing;-32;Chicago Freestyle;Drake Featuring Giveon;14;14;2
+"
+                May 23, 2020
+                ";47;Rising;+13;Level Of Concern;twenty one pilots;60;23;5
+"
+                May 23, 2020
+                ";48;Rising;+16;Party Girl;StaySolidRocky;64;48;3
+"
+                May 23, 2020
+                ";49;Failing;-7;Righteous;Juice WRLD;42;11;3
+"
+                May 23, 2020
+                ";50;New;-;Can I;Kehlani Featuring Tory Lanez;-;50;1
+"
+                May 23, 2020
+                ";51;Failing;-44;Pain 1993;Drake Featuring Playboi Carti;7;7;2
+"
+                May 23, 2020
+                ";52;Rising;+15;Walk Em Down;NLE Choppa Featuring Roddy Ricch;67;52;8
+"
+                May 23, 2020
+                ";53;Rising;+10;Dior;Pop Smoke;63;30;13
+"
+                May 23, 2020
+                ";54;Rising;+8;In Your Eyes;The Weeknd;62;16;8
+"
+                May 23, 2020
+                ";55;Rising;+6;We Paid;Lil Baby & 42 Dugg;61;55;2
+"
+                May 23, 2020
+                ";56;Steady;-;Emotionally Scarred;Lil Baby;56;31;11
+"
+                May 23, 2020
+                ";57;Rising;+19;Bluebird;Miranda Lambert;76;57;6
+"
+                May 23, 2020
+                ";58;Rising;+8;Heartless;Diplo Presents Thomas Wesley Featuring Morgan Wallen;66;57;16
+"
+                May 23, 2020
+                ";59;Rising;+9;Here And Now;Kenny Chesney;68;59;6
+"
+                May 23, 2020
+                ";60;Rising;+31;Turks;NAV, Gunna & Travis Scott;91;17;7
+"
+                May 23, 2020
+                ";61;Rising;+10;If The World Was Ending;JP Saxe Featuring Julia Michaels;71;59;7
+"
+                May 23, 2020
+                ";62;Rising;+12;Ride It.;Regard;74;62;5
+"
+                May 23, 2020
+                ";63;Rising;+21;After Party;Don Toliver;84;63;4
+"
+                May 23, 2020
+                ";64;Rising;+9;Yo Perreo Sola;Bad Bunny;73;53;9
+"
+                May 23, 2020
+                ";65;New;-;Zoo York;Lil Tjay Featuring Fivio Foreign & Pop Smoke;-;65;1
+"
+                May 23, 2020
+                ";66;Rising;+13;P*$$y Fairy (OTW);Jhene Aiko;79;40;17
+"
+                May 23, 2020
+                ";67;Rising;+10;Out West;JACKBOYS Featuring Young Thug;77;38;18
+"
+                May 23, 2020
+                ";68;New;-;Toxic;Kehlani;-;68;1
+"
+                May 23, 2020
+                ";69;Rising;+18;One Margarita;Luke Bryan;87;69;2
+"
+                May 23, 2020
+                ";70;Rising;+10;Believe It;PARTYNEXTDOOR & Rihanna;80;23;7
+"
+                May 23, 2020
+                ";71;Rising;+1;I'm Ready;Sam Smith & Demi Lovato;72;36;4
+"
+                May 23, 2020
+                ";72;Rising;+13;In Between;Scotty McCreery;85;72;5
+"
+                May 23, 2020
+                ";73;Failing;-4;More Hearts Than Mine;Ingrid Andress;69;30;20
+"
+                May 23, 2020
+                ";74;Rising;+25;I Love My Country;Florida Georgia Line;99;74;4
+"
+                May 23, 2020
+                ";75;Failing;-5;I Love Me;Demi Lovato;70;18;10
+"
+                May 23, 2020
+                ";76;New;-;Go Crazy;Chris Brown & Young Thug;-;76;1
+"
+                May 23, 2020
+                ";77;Failing;-58;D4L;Future, Drake & Young Thug;19;19;2
+"
+                May 23, 2020
+                ";78;Rising;+4;Godzilla;Eminem Featuring Juice WRLD;82;3;17
+"
+                May 23, 2020
+                ";79;Failing;-20;All In;Lil Baby;59;45;3
+"
+                May 23, 2020
+                ";80;New;-;Change Your Life;Kehlani Featuring Jhene Aiko;-;80;1
+"
+                May 23, 2020
+                ";81;Rising;+8;God Whispered Your Name;Keith Urban;89;81;4
+"
+                May 23, 2020
+                ";82;Rising;+12;Die From A Broken Heart;Maddie & Tae;94;80;5
+"
+                May 23, 2020
+                ";83;Failing;-5;Catch;Brett Young;78;29;16
+"
+                May 23, 2020
+                ";84;Rising;+16;Don't Rush;Young T & Bugsey Featuring Headie One;100;84;2
+"
+                May 23, 2020
+                ";85;Failing;-58;Desires;Drake Featuring Future;27;27;2
+"
+                May 23, 2020
+                ";86;Rising;+9;Be A Light;Thomas Rhett Featuring Reba McEntire, Hillary Scott, Chris Tomlin & Keith Urban;95;71;6
+"
+                May 23, 2020
+                ";87;Failing;-4;Jump;DaBaby Featuring YoungBoy Never Broke Again;83;17;4
+"
+                May 23, 2020
+                ";88;New;-;Me Vs Me;Moneybagg Yo;-;88;1
+"
+                May 23, 2020
+                ";89;Re-Enter;-;Drinking Alone;Carrie Underwood;-;89;2
+"
+                May 23, 2020
+                ";90;Failing;-32;Six Feet Apart;Luke Combs;58;58;2
+"
+                May 23, 2020
+                ";91;New;-;Viral Moment;Lil Durk;-;91;1
+"
+                May 23, 2020
+                ";92;Re-Enter;-;Sigues Con El;Arcangel x Sech;-;78;2
+"
+                May 23, 2020
+                ";93;Failing;-1;Homemade;Jake Owen;92;39;16
+"
+                May 23, 2020
+                ";94;Failing;-64;Time Flies;Drake;30;30;2
+"
+                May 23, 2020
+                ";95;Failing;-7;Grace;Lil Baby & 42 Dugg;88;48;9
+"
+                May 23, 2020
+                ";96;Failing;-6;Slow Dance In A Parking Lot;Jordan Davis;90;37;19
+"
+                May 23, 2020
+                ";97;Failing;-4;You Should Be Sad;Halsey;93;26;18
+"
+                May 23, 2020
+                ";98;Re-Enter;-;That Way;Lil Uzi Vert;-;20;10
+"
+                May 23, 2020
+                ";99;Failing;-65;Demons;Drake Featuring Fivio Foreign & Sosa Geek;34;34;2
+"
+                May 23, 2020
+                ";100;Re-Enter;-;July;Noah Cyrus & Leon Bridges;-;85;10
+"
+                May 30, 2020
+                ";1;Rising;+4;Savage;Megan Thee Stallion Featuring Beyonce;5;1;10
+"
+                May 30, 2020
+                ";2;Steady;-;Say So;Doja Cat Featuring Nicki Minaj;2;1;20
+"
+                May 30, 2020
+                ";3;Rising;+1;Blinding Lights;The Weeknd;4;1;25
+"
+                May 30, 2020
+                ";4;Rising;+4;Rockstar;DaBaby Featuring Roddy Ricch;8;4;5
+"
+                May 30, 2020
+                ";5;Rising;+1;Toosie Slide;Drake;6;1;7
+"
+                May 30, 2020
+                ";6;Rising;+7;Life Is Good;Future Featuring Drake;13;2;19
+"
+                May 30, 2020
+                ";7;Steady;-;The Box;Roddy Ricch;7;1;24
+"
+                May 30, 2020
+                ";8;Rising;+1;Don't Start Now;Dua Lipa;9;2;29
+"
+                May 30, 2020
+                ";9;Rising;+2;Intentions;Justin Bieber Featuring Quavo;11;8;15
+"
+                May 30, 2020
+                ";10;Steady;-;Circles;Post Malone;10;1;38
+"
+                May 30, 2020
+                ";11;Failing;-8;Gooba;6ix9ine;3;3;2
+"
+                May 30, 2020
+                ";12;Steady;-;Adore You;Harry Styles;12;6;24
+"
+                May 30, 2020
+                ";13;Failing;-12;Stuck With U;Ariana Grande & Justin Bieber;1;1;2
+"
+                May 30, 2020
+                ";14;Steady;-;The Bones;Maren Morris;14;12;35
+"
+                May 30, 2020
+                ";15;Rising;+1;Roses (Imanbek Remix);SAINt JHN;16;15;9
+"
+                May 30, 2020
+                ";16;Failing;-1;The Scotts;THE SCOTTS, Travis Scott & Kid Cudi;15;1;4
+"
+                May 30, 2020
+                ";17;Rising;+3;Blueberry Faygo;Lil Mosey;20;16;15
+"
+                May 30, 2020
+                ";18;Rising;+3;Chasin' You;Morgan Wallen;21;18;17
+"
+                May 30, 2020
+                ";19;Rising;+4;I Hope;Gabby Barrett;23;16;21
+"
+                May 30, 2020
+                ";20;Failing;-2;Someone You Loved;Lewis Capaldi;18;1;54
+"
+                May 30, 2020
+                ";21;Rising;+1;Falling;Trevor Daniel;22;21;27
+"
+                May 30, 2020
+                ";22;Rising;+6;Does To Me;Luke Combs Featuring Eric Church;28;22;10
+"
+                May 30, 2020
+                ";23;Rising;+2;Nobody But You;Blake Shelton Duet With Gwen Stefani;25;18;19
+"
+                May 30, 2020
+                ";24;Rising;+2;High Fashion;Roddy Ricch Featuring Mustard;26;20;21
+"
+                May 30, 2020
+                ";25;Failing;-8;My Oh My;Camila Cabello Featuring DaBaby;17;12;24
+"
+                May 30, 2020
+                ";26;Rising;+3;Sunday Best;Surfaces;29;26;12
+"
+                May 30, 2020
+                ";27;Failing;-8;Everything I Wanted;Billie Eilish;19;8;28
+"
+                May 30, 2020
+                ";28;Rising;+4;Whats Poppin;Jack Harlow;32;28;15
+"
+                May 30, 2020
+                ";29;Failing;-2;Death Bed;Powfu Featuring beabadoobee;27;26;10
+"
+                May 30, 2020
+                ";30;New;-;Flex;Polo G Featuring Juice WRLD;-;30;1
+"
+                May 30, 2020
+                ";31;Failing;-7;Memories;Maroon 5;24;2;35
+"
+                May 30, 2020
+                ";32;New;-;Solitaires;Future Featuring Travis Scott;-;32;1
+"
+                May 30, 2020
+                ";33;New;-;X;Jonas Brothers Featuring Karol G;-;33;1
+"
+                May 30, 2020
+                ";34;New;-;Trillionaire;Future Featuring YoungBoy Never Broke Again;-;34;1
+"
+                May 30, 2020
+                ";35;Failing;-1;I Hope You're Happy Now;Carly Pearce & Lee Brice;34;34;20
+"
+                May 30, 2020
+                ";36;Rising;+1;Before You Go;Lewis Capaldi;37;36;16
+"
+                May 30, 2020
+                ";37;Rising;+1;After A Few;Travis Denning;38;37;8
+"
+                May 30, 2020
+                ";38;Rising;+10;Party Girl;StaySolidRocky;48;38;4
+"
+                May 30, 2020
+                ";39;Failing;-8;Break My Heart;Dua Lipa;31;21;8
+"
+                May 30, 2020
+                ";40;New;-;Daisies;Katy Perry;-;40;1
+"
+                May 30, 2020
+                ";41;Failing;-11;RITMO (Bad Boys For Life);The Black Eyed Peas X J Balvin;30;26;26
+"
+                May 30, 2020
+                ";42;Failing;-6;Beer Can't Fix;Thomas Rhett Featuring Jon Pardi;36;36;10
+"
+                May 30, 2020
+                ";43;Failing;-10;Be Kind;Marshmello & Halsey;33;29;3
+"
+                May 30, 2020
+                ";44;Steady;-;Hard To Forget;Sam Hunt;44;40;8
+"
+                May 30, 2020
+                ";45;Failing;-6;Supalonely;BENEE Featuring Gus Dapperton;39;39;10
+"
+                May 30, 2020
+                ";46;Failing;-11;Hot Girl Bummer;blackbear;35;11;36
+"
+                May 30, 2020
+                ";47;Failing;-5;Dance Monkey;Tones And I;42;4;33
+"
+                May 30, 2020
+                ";48;Rising;+21;One Margarita;Luke Bryan;69;48;3
+"
+                May 30, 2020
+                ";49;Failing;-8;Ballin';Mustard & Roddy Ricch;41;11;44
+"
+                May 30, 2020
+                ";50;Rising;+8;Heartless;Diplo Presents Thomas Wesley Featuring Morgan Wallen;58;50;17
+"
+                May 30, 2020
+                ";51;Failing;-6;Sum 2 Prove;Lil Baby;45;16;19
+"
+                May 30, 2020
+                ";52;Steady;-;Walk Em Down;NLE Choppa Featuring Roddy Ricch;52;52;9
+"
+                May 30, 2020
+                ";53;New;-;Trapped In The Sun;Future;-;53;1
+"
+                May 30, 2020
+                ";54;New;-;All Bad;Future Featuring Lil Uzi Vert;-;54;1
+"
+                May 30, 2020
+                ";55;Rising;+2;Bluebird;Miranda Lambert;57;55;7
+"
+                May 30, 2020
+                ";56;Failing;-10;Chicago Freestyle;Drake Featuring Giveon;46;14;3
+"
+                May 30, 2020
+                ";57;New;-;Be Something;Polo G Featuring Lil Baby;-;57;1
+"
+                May 30, 2020
+                ";58;Failing;-4;In Your Eyes;The Weeknd;54;16;9
+"
+                May 30, 2020
+                ";59;Failing;-6;Dior;Pop Smoke;53;30;14
+"
+                May 30, 2020
+                ";60;Failing;-4;Emotionally Scarred;Lil Baby;56;31;12
+"
+                May 30, 2020
+                ";61;New;-;Martin & Gina;Polo G;-;61;1
+"
+                May 30, 2020
+                ";62;New;-;21;Polo G;-;62;1
+"
+                May 30, 2020
+                ";63;Failing;-14;Righteous;Juice WRLD;49;11;4
+"
+                May 30, 2020
+                ";64;Re-Enter;-;Watermelon Sugar;Harry Styles;-;54;9
+"
+                May 30, 2020
+                ";65;Failing;-2;After Party;Don Toliver;63;63;5
+"
+                May 30, 2020
+                ";66;Failing;-19;Level Of Concern;twenty one pilots;47;23;6
+"
+                May 30, 2020
+                ";67;Re-Enter;-;Go Stupid;Polo G Featuring NLE Choppa & Stunna 4 Vegas;-;60;8
+"
+                May 30, 2020
+                ";68;New;-;Hard To Choose One;Future;-;68;1
+"
+                May 30, 2020
+                ";69;New;-;Ridin Strikers;Future;-;69;1
+"
+                May 30, 2020
+                ";70;Failing;-15;We Paid;Lil Baby & 42 Dugg;55;55;3
+"
+                May 30, 2020
+                ";71;New;-;Hitek Tek;Future;-;71;1
+"
+                May 30, 2020
+                ";72;Failing;-8;Yo Perreo Sola;Bad Bunny;64;53;10
+"
+                May 30, 2020
+                ";73;Failing;-12;If The World Was Ending;JP Saxe Featuring Julia Michaels;61;59;8
+"
+                May 30, 2020
+                ";74;Failing;-12;Ride It.;Regard;62;62;6
+"
+                May 30, 2020
+                ";75;New;-;Too Comfortable;Future;-;75;1
+"
+                May 30, 2020
+                ";76;Failing;-6;Believe It;PARTYNEXTDOOR & Rihanna;70;23;8
+"
+                May 30, 2020
+                ";77;Failing;-18;Here And Now;Kenny Chesney;59;59;7
+"
+                May 30, 2020
+                ";78;Failing;-12;P*$$y Fairy (OTW);Jhene Aiko;66;40;18
+"
+                May 30, 2020
+                ";79;New;-;Posted With Demons;Future;-;79;1
+"
+                May 30, 2020
+                ";80;Failing;-13;Out West;JACKBOYS Featuring Young Thug;67;38;19
+"
+                May 30, 2020
+                ";81;New;-;Touch The Sky;Future;-;81;1
+"
+                May 30, 2020
+                ";82;New;-;One Of My;Future;-;82;1
+"
+                May 30, 2020
+                ";83;Failing;-11;In Between;Scotty McCreery;72;72;6
+"
+                May 30, 2020
+                ";84;New;-;Harlem Shake;Future Featuring Young Thug;-;84;1
+"
+                May 30, 2020
+                ";85;Failing;-4;God Whispered Your Name;Keith Urban;81;81;5
+"
+                May 30, 2020
+                ";86;Failing;-35;Pain 1993;Drake Featuring Playboi Carti;51;7;3
+"
+                May 30, 2020
+                ";87;Failing;-5;Die From A Broken Heart;Maddie & Tae;82;80;6
+"
+                May 30, 2020
+                ";88;New;-;Don't Believe The Hype;Polo G;-;88;1
+"
+                May 30, 2020
+                ";89;Failing;-15;I Love My Country;Florida Georgia Line;74;74;5
+"
+                May 30, 2020
+                ";90;Failing;-12;Godzilla;Eminem Featuring Juice WRLD;78;3;18
+"
+                May 30, 2020
+                ";91;Failing;-31;Turks;NAV, Gunna & Travis Scott;60;17;8
+"
+                May 30, 2020
+                ";92;New;-;Beautiful Pain (Losin My Mind);Polo G;-;92;1
+"
+                May 30, 2020
+                ";93;New;-;33;Polo G;-;93;1
+"
+                May 30, 2020
+                ";94;Failing;-18;Go Crazy;Chris Brown & Young Thug;76;76;2
+"
+                May 30, 2020
+                ";95;New;-;I Know;Polo G;-;95;1
+"
+                May 30, 2020
+                ";96;Failing;-53;3 Headed Goat;Lil Durk Featuring Lil Baby & Polo G;43;43;2
+"
+                May 30, 2020
+                ";97;Failing;-9;Me Vs Me;Moneybagg Yo;88;88;2
+"
+                May 30, 2020
+                ";98;Rising;+2;July;Noah Cyrus & Leon Bridges;100;85;11
+"
+                May 30, 2020
+                ";99;Failing;-10;Drinking Alone;Carrie Underwood;89;89;3
+"
+                May 30, 2020
+                ";100;Failing;-14;Be A Light;Thomas Rhett Featuring Reba McEntire, Hillary Scott, Chris Tomlin & Keith Urban;86;71;7
+"
+                June 6, 2020
+                ";1;New;-;Rain On Me;Lady Gaga & Ariana Grande;-;1;1
+"
+                June 6, 2020
+                ";2;Failing;-1;Savage;Megan Thee Stallion Featuring Beyonce;1;1;11
+"
+                June 6, 2020
+                ";3;Rising;+1;Rockstar;DaBaby Featuring Roddy Ricch;4;3;6
+"
+                June 6, 2020
+                ";4;Failing;-1;Blinding Lights;The Weeknd;3;1;26
+"
+                June 6, 2020
+                ";5;Failing;-3;Say So;Doja Cat Featuring Nicki Minaj;2;1;21
+"
+                June 6, 2020
+                ";6;Failing;-1;Toosie Slide;Drake;5;1;8
+"
+                June 6, 2020
+                ";7;Rising;+1;Don't Start Now;Dua Lipa;8;2;30
+"
+                June 6, 2020
+                ";8;Failing;-1;The Box;Roddy Ricch;7;1;25
+"
+                June 6, 2020
+                ";9;Steady;-;Intentions;Justin Bieber Featuring Quavo;9;8;16
+"
+                June 6, 2020
+                ";10;Failing;-4;Life Is Good;Future Featuring Drake;6;2;20
+"
+                June 6, 2020
+                ";11;Failing;-1;Circles;Post Malone;10;1;39
+"
+                June 6, 2020
+                ";12;Steady;-;Adore You;Harry Styles;12;6;25
+"
+                June 6, 2020
+                ";13;Rising;+1;The Bones;Maren Morris;14;12;36
+"
+                June 6, 2020
+                ";14;Rising;+1;Roses (Imanbek Remix);SAINt JHN;15;14;10
+"
+                June 6, 2020
+                ";15;Failing;-2;Stuck With U;Ariana Grande & Justin Bieber;13;1;3
+"
+                June 6, 2020
+                ";16;Rising;+1;Blueberry Faygo;Lil Mosey;17;16;16
+"
+                June 6, 2020
+                ";17;Failing;-1;The Scotts;THE SCOTTS, Travis Scott & Kid Cudi;16;1;5
+"
+                June 6, 2020
+                ";18;Steady;-;Chasin' You;Morgan Wallen;18;18;18
+"
+                June 6, 2020
+                ";19;Steady;-;I Hope;Gabby Barrett;19;16;22
+"
+                June 6, 2020
+                ";20;Rising;+2;Does To Me;Luke Combs Featuring Eric Church;22;20;11
+"
+                June 6, 2020
+                ";21;Steady;-;Falling;Trevor Daniel;21;21;28
+"
+                June 6, 2020
+                ";22;Failing;-11;Gooba;6ix9ine;11;3;3
+"
+                June 6, 2020
+                ";23;Rising;+1;High Fashion;Roddy Ricch Featuring Mustard;24;20;22
+"
+                June 6, 2020
+                ";24;Rising;+2;Sunday Best;Surfaces;26;24;13
+"
+                June 6, 2020
+                ";25;Rising;+3;Whats Poppin;Jack Harlow;28;25;16
+"
+                June 6, 2020
+                ";26;Rising;+3;Death Bed;Powfu Featuring beabadoobee;29;26;11
+"
+                June 6, 2020
+                ";27;Rising;+11;Party Girl;StaySolidRocky;38;27;5
+"
+                June 6, 2020
+                ";28;Failing;-5;Nobody But You;Blake Shelton Duet With Gwen Stefani;23;18;20
+"
+                June 6, 2020
+                ";29;Rising;+6;I Hope You're Happy Now;Carly Pearce & Lee Brice;35;29;21
+"
+                June 6, 2020
+                ";30;Rising;+6;Before You Go;Lewis Capaldi;36;30;17
+"
+                June 6, 2020
+                ";31;Failing;-6;My Oh My;Camila Cabello Featuring DaBaby;25;12;25
+"
+                June 6, 2020
+                ";32;Rising;+26;In Your Eyes;The Weeknd;58;16;10
+"
+                June 6, 2020
+                ";33;Rising;+4;After A Few;Travis Denning;37;33;9
+"
+                June 6, 2020
+                ";34;Rising;+5;Break My Heart;Dua Lipa;39;21;9
+"
+                June 6, 2020
+                ";35;Failing;-8;Everything I Wanted;Billie Eilish;27;8;29
+"
+                June 6, 2020
+                ";36;Failing;-5;Memories;Maroon 5;31;2;36
+"
+                June 6, 2020
+                ";37;Rising;+7;Hard To Forget;Sam Hunt;44;37;9
+"
+                June 6, 2020
+                ";38;New;-;Dollaz On My Head;Gunna Featuring Young Thug;-;38;1
+"
+                June 6, 2020
+                ";39;Rising;+4;Be Kind;Marshmello & Halsey;43;29;4
+"
+                June 6, 2020
+                ";40;Rising;+2;Beer Can't Fix;Thomas Rhett Featuring Jon Pardi;42;36;11
+"
+                June 6, 2020
+                ";41;New;-;Cooler Than A Bitch;Gunna Featuring Roddy Ricch;-;41;1
+"
+                June 6, 2020
+                ";42;Failing;-1;RITMO (Bad Boys For Life);The Black Eyed Peas X J Balvin;41;26;27
+"
+                June 6, 2020
+                ";43;Rising;+3;Hot Girl Bummer;blackbear;46;11;37
+"
+                June 6, 2020
+                ";44;Rising;+1;Supalonely;BENEE Featuring Gus Dapperton;45;39;11
+"
+                June 6, 2020
+                ";45;Rising;+19;Watermelon Sugar;Harry Styles;64;45;10
+"
+                June 6, 2020
+                ";46;Rising;+6;Walk Em Down;NLE Choppa Featuring Roddy Ricch;52;46;10
+"
+                June 6, 2020
+                ";47;Rising;+1;One Margarita;Luke Bryan;48;47;4
+"
+                June 6, 2020
+                ";48;Failing;-1;Dance Monkey;Tones And I;47;4;34
+"
+                June 6, 2020
+                ";49;Failing;-19;Flex;Polo G Featuring Juice WRLD;30;30;2
+"
+                June 6, 2020
+                ";50;Rising;+1;Sum 2 Prove;Lil Baby;51;16;20
+"
+                June 6, 2020
+                ";51;Rising;+4;Bluebird;Miranda Lambert;55;51;8
+"
+                June 6, 2020
+                ";52;Rising;+42;Go Crazy;Chris Brown & Young Thug;94;52;3
+"
+                June 6, 2020
+                ";53;Failing;-3;Heartless;Diplo Presents Thomas Wesley Featuring Morgan Wallen;50;50;18
+"
+                June 6, 2020
+                ";54;Rising;+6;Emotionally Scarred;Lil Baby;60;31;13
+"
+                June 6, 2020
+                ";55;New;-;Top Floor;Gunna Featuring Travis Scott;-;55;1
+"
+                June 6, 2020
+                ";56;Rising;+3;Dior;Pop Smoke;59;30;15
+"
+                June 6, 2020
+                ";57;New;-;Wunna;Gunna;-;57;1
+"
+                June 6, 2020
+                ";58;Failing;-2;Chicago Freestyle;Drake Featuring Giveon;56;14;4
+"
+                June 6, 2020
+                ";59;New;-;Blindfold;Gunna Featuring Lil Baby;-;59;1
+"
+                June 6, 2020
+                ";60;Rising;+10;We Paid;Lil Baby & 42 Dugg;70;55;4
+"
+                June 6, 2020
+                ";61;Rising;+5;Level Of Concern;twenty one pilots;66;23;7
+"
+                June 6, 2020
+                ";62;New;-;Need It;Migos Featuring YoungBoy Never Broke Again;-;62;1
+"
+                June 6, 2020
+                ";63;Rising;+2;After Party;Don Toliver;65;63;6
+"
+                June 6, 2020
+                ";64;Rising;+25;I Love My Country;Florida Georgia Line;89;64;6
+"
+                June 6, 2020
+                ";65;Re-Enter;-;SkyBox;Gunna;-;65;2
+"
+                June 6, 2020
+                ";66;Failing;-33;X;Jonas Brothers Featuring Karol G;33;33;2
+"
+                June 6, 2020
+                ";67;New;-;Argentina;Gunna;-;67;1
+"
+                June 6, 2020
+                ";68;Rising;+4;Yo Perreo Sola;Bad Bunny;72;53;11
+"
+                June 6, 2020
+                ";69;Rising;+8;Here And Now;Kenny Chesney;77;59;8
+"
+                June 6, 2020
+                ";70;New;-;Met Gala;Gunna;-;70;1
+"
+                June 6, 2020
+                ";71;Rising;+9;Out West;JACKBOYS Featuring Young Thug;80;38;20
+"
+                June 6, 2020
+                ";72;Failing;-9;Righteous;Juice WRLD;63;11;5
+"
+                June 6, 2020
+                ";73;Steady;-;If The World Was Ending;JP Saxe Featuring Julia Michaels;73;59;9
+"
+                June 6, 2020
+                ";74;Rising;+2;Believe It;PARTYNEXTDOOR & Rihanna;76;23;9
+"
+                June 6, 2020
+                ";75;Failing;-1;Ride It.;Regard;74;62;7
+"
+                June 6, 2020
+                ";76;New;-;Daechwita;Agust D;-;76;1
+"
+                June 6, 2020
+                ";77;Rising;+1;P*$$y Fairy (OTW);Jhene Aiko;78;40;19
+"
+                June 6, 2020
+                ";78;New;-;Nasty Girl / On Camera;Gunna;-;78;1
+"
+                June 6, 2020
+                ";79;Failing;-39;Daisies;Katy Perry;40;40;2
+"
+                June 6, 2020
+                ";80;Rising;+5;God Whispered Your Name;Keith Urban;85;80;6
+"
+                June 6, 2020
+                ";81;Rising;+2;In Between;Scotty McCreery;83;72;7
+"
+                June 6, 2020
+                ";82;Rising;+5;Die From A Broken Heart;Maddie & Tae;87;80;7
+"
+                June 6, 2020
+                ";83;Failing;-51;Solitaires;Future Featuring Travis Scott;32;32;2
+"
+                June 6, 2020
+                ";84;New;-;MOTW;Gunna;-;84;1
+"
+                June 6, 2020
+                ";85;Failing;-51;Trillionaire;Future Featuring YoungBoy Never Broke Again;34;34;2
+"
+                June 6, 2020
+                ";86;New;-;Gimmick;Gunna;-;86;1
+"
+                June 6, 2020
+                ";87;Rising;+12;Drinking Alone;Carrie Underwood;99;87;4
+"
+                June 6, 2020
+                ";88;Rising;+2;Godzilla;Eminem Featuring Juice WRLD;90;3;19
+"
+                June 6, 2020
+                ";89;Rising;+11;Be A Light;Thomas Rhett Featuring Reba McEntire, Hillary Scott, Chris Tomlin & Keith Urban;100;71;8
+"
+                June 6, 2020
+                ";90;Rising;+1;Turks;NAV, Gunna & Travis Scott;91;17;9
+"
+                June 6, 2020
+                ";91;Failing;-24;Go Stupid;Polo G Featuring NLE Choppa & Stunna 4 Vegas;67;60;9
+"
+                June 6, 2020
+                ";92;Re-Enter;-;Don't Rush;Young T & Bugsey Featuring Headie One;-;84;3
+"
+                June 6, 2020
+                ";93;Failing;-36;Be Something;Polo G Featuring Lil Baby;57;57;2
+"
+                June 6, 2020
+                ";94;Failing;-33;Martin & Gina;Polo G;61;61;2
+"
+                June 6, 2020
+                ";95;Failing;-33;21;Polo G;62;62;2
+"
+                June 6, 2020
+                ";96;Rising;+2;July;Noah Cyrus & Leon Bridges;98;85;12
+"
+                June 6, 2020
+                ";97;Re-Enter;-;Grace;Lil Baby & 42 Dugg;-;48;10
+"
+                June 6, 2020
+                ";98;New;-;Feigning;Gunna;-;98;1
+"
+                June 6, 2020
+                ";99;Re-Enter;-;All In;Lil Baby;-;45;4
+"
+                June 6, 2020
+                ";100;New;-;ily;surf mesa Featuring Emilee;-;100;1
