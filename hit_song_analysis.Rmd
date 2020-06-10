@@ -30,7 +30,7 @@ secret <- '331e4c3def7c4b7a97a0e10e1901cfa9'
 Sys.setenv(SPOTIFY_CLIENT_ID = id)
 Sys.setenv(SPOTIFY_CLIENT_SECRET = secret)
 access_token <- get_spotify_access_token()
-authorization_token <- get_spotify_authorization_code()
+#authorization_token <- get_spotify_authorization_code()
 ```
 
 ## Import Dataframe and Dataframe manipulation
@@ -139,9 +139,8 @@ write.csv(track_features, file = "track_features.csv", row.names = FALSE)
 ```
 
 ```{r}
-gs4_auth(email = 'scrapalytics@gmail.com')
+gs4_auth()
 ss <- 'https://docs.google.com/spreadsheets/d/16wFvXQFtq_RhjiK1dPKUSMEcQ-9meP3hYMUPz5YQY8c/edit#gid=0'
-
 to_gs <- track_features[,c(1:14,17:20)]
 to_gs %>% 
   sheet_write(ss, sheet = "track_features")
