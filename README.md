@@ -1,5 +1,3 @@
 # spotifyr-project
 
-This is a test.
-
-This is another test. :)
+Objective: Automate scrapping, wrangling and visualization of spotify data.
